@@ -1,2 +1,2 @@
 # DeepLearning_H2O_TimeSeries
-Time series forecasting into a distributed environment using the Deep Learning algorithm implemented in the H2O framework in R.
+This is the code associated with article "*A novel scalable approach based on deep learning for big data time series forecasting*", sent to the **Integrated Computer-Aided Engineering magazine**.
