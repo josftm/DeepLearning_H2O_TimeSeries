@@ -5,7 +5,7 @@ The code is written for the R language. To run it, you must be installed correct
 
 The input data format to run the code should be a matrix with the following format:
 
-| col1          | col2          | col3    |
+| 1             | 2             | 3       |
 | ------------- |:-------------:| -----:  |
 | data1         | data11        | data12  |
 | data2         | data21        | data22  |
