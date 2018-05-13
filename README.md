@@ -5,7 +5,9 @@ The code is written for the R language. To run it, you must be installed correct
 
 The input data format to run the code should be a matrix with the following format:
 
-|               |               |         |       |           |          |          |          |          |
-| ------------- | ------------- | -----  | -----  | -----    | -----     | -----     | -----     | -----     |
-| X<sub>1</sub>         |  X<sub>2</sub>        | data12  |  x      | x         | x          | x          | x          | x          |
-| data2         | data21        | data22  |   x     | x         | x          | x          | x          | x          |
+|               		|        		        |         						|       					|       |        				    |
+| ------------- 		| ------------- 		| ----- | -----  				| -----   					| ----- | -----     				|
+| X<sub>1</sub>			| X<sub>2</sub>			| ... 	| X<sub>w</sub>			| X<sub>w+1</sub>			| ...	| X<sub>w+h</sub>         	|
+| X<sub>1+h</sub>		| X<sub>2+h</sub>		| ... 	| X<sub>w+h</sub>		| X<sub>w+h+1</sub>			| ...	| X<sub>w+2h</sub>        	|
+| X<sub>1+2h</sub>		| X<sub>2+2h</sub>		| ... 	| X<sub>w+2h</sub>		| X<sub>w+2h+1</sub>		| ...	| X<sub>w+3h</sub>        	|
+| X<sub>1+3h</sub>		| X<sub>2+3h</sub>		| ... 	| X<sub>w+3h</sub>		| X<sub>w+3h+1</sub>		| ...	| X<sub>w+4h</sub>        	|
