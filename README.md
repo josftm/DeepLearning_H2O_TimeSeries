@@ -7,5 +7,5 @@ The input data format to run the code should be a matrix with the following form
 
 |               |               |         |       |           |          |          |          |          |
 | ------------- | ------------- | -----  | -----  | -----    | -----     | -----     | -----     | -----     |
-| data1         | data11        | data12  |  x      | x         | x          | x          | x          | x          |
+| X<sub>1</sub>         |  X<sub>2</sub>        | data12  |  x      | x         | x          | x          | x          | x          |
 | data2         | data21        | data22  |   x     | x         | x          | x          | x          | x          |
